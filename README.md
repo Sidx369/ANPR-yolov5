@@ -1,3 +1,3 @@
-# ANPR_yolov5
+# ANPR-yolov5
 
 Automatic number plate recognition (ANPR) using Yolov5
